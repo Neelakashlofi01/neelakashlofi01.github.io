@@ -1,32 +1,60 @@
-# Neel Akash Lofi - Personal Website
 
-**Welcome to my little dream** — a soft and soulful space for lofi lovers, dreamers, and night owls.
-
-## Live Website
-Visit: [https://neelakashlofi01.github.io](https://neelakashlofi01.github.io)
-
-## About This Project
-This website is a personal landing page where I share my artistic lofi creations and connect with my audience. It's built with love and minimal design.
-
-### Connect with Me:
-- **YouTube**: [@neelakashlofi420](https://www.youtube.com/@neelakashlofi420)
-- **Telegram Channel**: [Neel Akash Lofi](https://t.me/NeelAkashLofi555m)
-- **TikTok**: [@neelakashlofi555](https://tiktok.com/@neelakashlofi555)
-
-## Features
-- Animated Logo
-- Soft Typography
-- Clean Design
-- Fully Responsive
-
-## Tech Stack
-- HTML
-- CSS
-- Hosted via GitHub Pages
-
-## Screenshot
-*Coming Soon...*
+# Neel Akash Lofi & RS - Virtual Assistant  
+*By Neelakashlofi01*
 
 ---
 
-Crafted with heart by **Neel Akash**
+## Neel Akash Lofi  
+*Dreamy, melancholic, and emotional lofi music crafted from the heart.*
+
+Welcome to **Neel Akash Lofi**, a musical journey into the night filled with dreams, nostalgia, and soft melodies. I create lofi songs with an emotional male vocal style that blends melancholy with serenity.
+
+### Featured Tracks:
+- **ঘুম ভাঙা রাত** — A lofi piece inspired by restless nights.
+- **মায়াবী রাতের স্বপ্ন** — A dreamy melody filled with night-time emotions.
+
+### Tools Used:
+- FL Studio  
+- Audacity / Adobe Audition  
+- AI Voice Mixing  
+- Custom Bengali Lyrics & Vocals  
+
+### Listen on YouTube:
+[Neel Akash Lofi YouTube Channel](https://www.youtube.com/@NeelAkashLofi)
+
+### Upcoming Plans:
+- More dreamy Bengali lofi tracks  
+- Spotify & Apple Music release  
+- Collaboration with other lofi artists  
+
+---
+
+## RS - Personal Virtual Assistant *(Coming Soon)*  
+*A smart, secure, and multilingual assistant for daily productivity.*
+
+**RS** is an upcoming project — a personal virtual assistant designed to understand and respond in both Bengali and English. It will help with your daily tasks using voice commands and prioritize user privacy and control.
+
+### Planned Features:
+- Voice command support (Bengali + English)  
+- Voice authentication (only responds to owner's voice)  
+- Email saving & reminders  
+- Password-protected interactions  
+- Custom daily routines & multi-language prompts  
+
+### Technology Stack (Planned):
+- Python  
+- SpeechRecognition & pyttsx3  
+- SQLite for local data storage  
+- GUI (Tkinter or PyQt)  
+- Future: Mobile version & cloud sync
+
+---
+
+## Author  
+**Neelakashlofi01**  
+Dreamer, lofi artist & aspiring AI developer.
+
+---
+
+## License  
+This project is under the MIT License — feel free to explore, learn, and contribute.
